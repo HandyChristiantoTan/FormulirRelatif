@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Formulir_Relatif.iml" filepath="$PROJECT_DIR$/.idea/modules/Formulir_Relatif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Formulir_Relatif.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
